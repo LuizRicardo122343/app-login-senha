@@ -3,4 +3,8 @@ Faça  um  programa  que  solicite  login  e  senha,  simulando  o  acesso  a  u
 Java é uma linguagem de programação. 
 
 
-Exemplo de execuçãoDigite um login:meuLogDigite a senha:123456
+Exemplo de execução
+Digite um login:
+meuLog
+Digite a senha:
+123456
